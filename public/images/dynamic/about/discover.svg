@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="968" height="556" viewBox="0 0 968 556">
+  <g id="Group_22732" data-name="Group 22732" transform="translate(-199 -5811)">
+    <g id="Group_22290" data-name="Group 22290">
+      <g id="Rectangle_5758" data-name="Rectangle 5758" transform="translate(501.103 6072.146) rotate(-90)" fill="none" stroke="#c9c9c9" stroke-width="1" opacity="0.6">
+        <rect width="58.971" height="363" stroke="none"/>
+        <rect x="0.5" y="0.5" width="57.971" height="362" fill="none"/>
+      </g>
+      <g id="Rectangle_5752" data-name="Rectangle 5752" transform="translate(501.5 5811)" fill="none" stroke="#c9c9c9" stroke-width="1" opacity="0.6">
+        <rect width="60.5" height="261.146" stroke="none"/>
+        <rect x="0.5" y="0.5" width="59.5" height="260.146" fill="none"/>
+      </g>
+      <g id="Rectangle_5757" data-name="Rectangle 5757" transform="translate(804 5811)" fill="none" stroke="#c9c9c9" stroke-width="1" opacity="0.6">
+        <rect width="60.5" height="261.146" stroke="none"/>
+        <rect x="0.5" y="0.5" width="59.5" height="260.146" fill="none"/>
+      </g>
+      <g id="Union_18" data-name="Union 18" transform="translate(199 5811)" fill="none" opacity="0.6">
+        <path d="M968,556H0V0H60.5V497.03h847V0H968V556ZM756.25,408.573h-605V0h60.5V349.6h544.5V0h60.5V408.573Z" stroke="none"/>
+        <path d="M 967 555.0001831054688 L 967 1.00006103515625 L 908.499267578125 1.00006103515625 L 908.499267578125 498.0296020507812 L 59.49988174438477 498.0296020507812 L 59.49988174438477 1.00006103515625 L 1 1.00006103515625 L 1 555.0001831054688 L 967 555.0001831054688 M 815.74951171875 407.5728759765625 L 815.74951171875 1.00006103515625 L 757.2496337890625 1.00006103515625 L 757.2496337890625 350.602294921875 L 210.7503509521484 350.602294921875 L 210.7503509521484 1.00006103515625 L 152.2495269775391 1.00006103515625 L 152.2495269775391 407.5728759765625 L 815.74951171875 407.5728759765625 M 968 556.0001831054688 L 0 556.0001831054688 L 0 6.103515625e-05 L 60.49988174438477 6.103515625e-05 L 60.49988174438477 497.0296020507812 L 907.499267578125 497.0296020507812 L 907.499267578125 6.103515625e-05 L 968 6.103515625e-05 L 968 556.0001831054688 Z M 816.74951171875 408.5728759765625 L 151.2495269775391 408.5728759765625 L 151.2495269775391 6.103515625e-05 L 211.7503509521484 6.103515625e-05 L 211.7503509521484 349.602294921875 L 756.2496337890625 349.602294921875 L 756.2496337890625 6.103515625e-05 L 816.74951171875 6.103515625e-05 L 816.74951171875 408.5728759765625 Z" stroke="none" fill="#c9c9c9"/>
+      </g>
+      <g id="Rectangle_5969" data-name="Rectangle 5969" transform="translate(667.735 5811)" fill="none" stroke="#c9c9c9" stroke-width="1" opacity="0.6">
+        <rect width="60.5" height="111.514" stroke="none"/>
+        <rect x="0.5" y="0.5" width="59.5" height="110.514" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
